@@ -1,2 +1,2 @@
-# codealpha_tasks
+# EDA_PROJECTS
 Data Analytics Project 
